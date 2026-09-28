@@ -1,0 +1,15 @@
+C:\Users\allan.ssilva4\source\repos\CadastroCliente\CadastroCliente\bin\Debug\CadastroCliente.exe.config
+C:\Users\allan.ssilva4\source\repos\CadastroCliente\CadastroCliente\bin\Debug\CadastroCliente.exe
+C:\Users\allan.ssilva4\source\repos\CadastroCliente\CadastroCliente\bin\Debug\CadastroCliente.pdb
+C:\Users\allan.ssilva4\source\repos\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.csproj.AssemblyReference.cache
+C:\Users\allan.ssilva4\source\repos\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.Properties.Resources.resources
+C:\Users\allan.ssilva4\source\repos\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.csproj.GenerateResource.cache
+C:\Users\allan.ssilva4\source\repos\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.csproj.CoreCompileInputs.cache
+C:\Users\allan.ssilva4\source\repos\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.exe
+C:\Users\allan.ssilva4\source\repos\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.pdb
+C:\Users\allan.ssilva4\source\repos\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.exe.config
+C:\Users\allan.ssilva4\source\repos\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.TelaCliente.resources
+C:\Users\allan.ssilva4\source\repos\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.Atualizar.resources
+C:\Users\allan.ssilva4\source\repos\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.Cadastrar.resources
+C:\Users\allan.ssilva4\source\repos\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.Consultar.resources
+C:\Users\allan.ssilva4\source\repos\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.Excluir.resources
