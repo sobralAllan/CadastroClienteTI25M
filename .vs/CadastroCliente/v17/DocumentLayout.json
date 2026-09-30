@@ -3,43 +3,47 @@
   "WorkspaceRootPath": "C:\\Users\\allan.ssilva4\\source\\repos\\CadastroCliente\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CDF28CE5-74B1-49C6-8236-9261BBB52D99}|CadastroCliente\\CadastroCliente.csproj|C:\\Users\\allan.ssilva4\\source\\repos\\CadastroCliente\\cadastrocliente\\excluir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF28CE5-74B1-49C6-8236-9261BBB52D99}|CadastroCliente\\CadastroCliente.csproj|solutionrelative:cadastrocliente\\excluir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF28CE5-74B1-49C6-8236-9261BBB52D99}|CadastroCliente\\CadastroCliente.csproj|C:\\Users\\allan.ssilva4\\source\\repos\\CadastroCliente\\cadastrocliente\\excluir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CDF28CE5-74B1-49C6-8236-9261BBB52D99}|CadastroCliente\\CadastroCliente.csproj|solutionrelative:cadastrocliente\\excluir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF28CE5-74B1-49C6-8236-9261BBB52D99}|CadastroCliente\\CadastroCliente.csproj|C:\\Users\\allan.ssilva4\\source\\repos\\CadastroCliente\\cadastrocliente\\atualizar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF28CE5-74B1-49C6-8236-9261BBB52D99}|CadastroCliente\\CadastroCliente.csproj|solutionrelative:cadastrocliente\\atualizar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CDF28CE5-74B1-49C6-8236-9261BBB52D99}|CadastroCliente\\CadastroCliente.csproj|c:\\users\\allan.ssilva4\\source\\repos\\cadastrocliente\\cadastrocliente\\cadastrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CDF28CE5-74B1-49C6-8236-9261BBB52D99}|CadastroCliente\\CadastroCliente.csproj|solutionrelative:cadastrocliente\\cadastrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CDF28CE5-74B1-49C6-8236-9261BBB52D99}|CadastroCliente\\CadastroCliente.csproj|c:\\users\\allan.ssilva4\\source\\repos\\cadastrocliente\\cadastrocliente\\cadastrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CDF28CE5-74B1-49C6-8236-9261BBB52D99}|CadastroCliente\\CadastroCliente.csproj|solutionrelative:cadastrocliente\\cadastrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CDF28CE5-74B1-49C6-8236-9261BBB52D99}|CadastroCliente\\CadastroCliente.csproj|c:\\users\\allan.ssilva4\\source\\repos\\cadastrocliente\\cadastrocliente\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CDF28CE5-74B1-49C6-8236-9261BBB52D99}|CadastroCliente\\CadastroCliente.csproj|solutionrelative:cadastrocliente\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CDF28CE5-74B1-49C6-8236-9261BBB52D99}|CadastroCliente\\CadastroCliente.csproj|c:\\users\\allan.ssilva4\\source\\repos\\cadastrocliente\\cadastrocliente\\excluir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CDF28CE5-74B1-49C6-8236-9261BBB52D99}|CadastroCliente\\CadastroCliente.csproj|solutionrelative:cadastrocliente\\excluir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CDF28CE5-74B1-49C6-8236-9261BBB52D99}|CadastroCliente\\CadastroCliente.csproj|c:\\users\\allan.ssilva4\\source\\repos\\cadastrocliente\\cadastrocliente\\excluir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CDF28CE5-74B1-49C6-8236-9261BBB52D99}|CadastroCliente\\CadastroCliente.csproj|solutionrelative:cadastrocliente\\excluir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CDF28CE5-74B1-49C6-8236-9261BBB52D99}|CadastroCliente\\CadastroCliente.csproj|c:\\users\\allan.ssilva4\\source\\repos\\cadastrocliente\\cadastrocliente\\atualizar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CDF28CE5-74B1-49C6-8236-9261BBB52D99}|CadastroCliente\\CadastroCliente.csproj|solutionrelative:cadastrocliente\\atualizar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CDF28CE5-74B1-49C6-8236-9261BBB52D99}|CadastroCliente\\CadastroCliente.csproj|c:\\users\\allan.ssilva4\\source\\repos\\cadastrocliente\\cadastrocliente\\atualizar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{CDF28CE5-74B1-49C6-8236-9261BBB52D99}|CadastroCliente\\CadastroCliente.csproj|C:\\Users\\allan.ssilva4\\source\\repos\\CadastroCliente\\cadastrocliente\\atualizar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CDF28CE5-74B1-49C6-8236-9261BBB52D99}|CadastroCliente\\CadastroCliente.csproj|solutionrelative:cadastrocliente\\atualizar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CDF28CE5-74B1-49C6-8236-9261BBB52D99}|CadastroCliente\\CadastroCliente.csproj|c:\\users\\allan.ssilva4\\source\\repos\\cadastrocliente\\cadastrocliente\\consultar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CDF28CE5-74B1-49C6-8236-9261BBB52D99}|CadastroCliente\\CadastroCliente.csproj|c:\\users\\allan.ssilva4\\source\\repos\\cadastrocliente\\cadastrocliente\\dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF28CE5-74B1-49C6-8236-9261BBB52D99}|CadastroCliente\\CadastroCliente.csproj|solutionrelative:cadastrocliente\\dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF28CE5-74B1-49C6-8236-9261BBB52D99}|CadastroCliente\\CadastroCliente.csproj|C:\\Users\\allan.ssilva4\\source\\repos\\CadastroCliente\\cadastrocliente\\consultar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CDF28CE5-74B1-49C6-8236-9261BBB52D99}|CadastroCliente\\CadastroCliente.csproj|solutionrelative:cadastrocliente\\consultar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CDF28CE5-74B1-49C6-8236-9261BBB52D99}|CadastroCliente\\CadastroCliente.csproj|c:\\users\\allan.ssilva4\\source\\repos\\cadastrocliente\\cadastrocliente\\consultar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{CDF28CE5-74B1-49C6-8236-9261BBB52D99}|CadastroCliente\\CadastroCliente.csproj|C:\\Users\\allan.ssilva4\\source\\repos\\CadastroCliente\\cadastrocliente\\consultar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CDF28CE5-74B1-49C6-8236-9261BBB52D99}|CadastroCliente\\CadastroCliente.csproj|solutionrelative:cadastrocliente\\consultar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CDF28CE5-74B1-49C6-8236-9261BBB52D99}|CadastroCliente\\CadastroCliente.csproj|c:\\users\\allan.ssilva4\\source\\repos\\cadastrocliente\\cadastrocliente\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{CDF28CE5-74B1-49C6-8236-9261BBB52D99}|CadastroCliente\\CadastroCliente.csproj|C:\\Users\\allan.ssilva4\\source\\repos\\CadastroCliente\\cadastrocliente\\cadastrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CDF28CE5-74B1-49C6-8236-9261BBB52D99}|CadastroCliente\\CadastroCliente.csproj|solutionrelative:cadastrocliente\\cadastrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF28CE5-74B1-49C6-8236-9261BBB52D99}|CadastroCliente\\CadastroCliente.csproj|C:\\Users\\allan.ssilva4\\source\\repos\\CadastroCliente\\cadastrocliente\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF28CE5-74B1-49C6-8236-9261BBB52D99}|CadastroCliente\\CadastroCliente.csproj|solutionrelative:cadastrocliente\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF28CE5-74B1-49C6-8236-9261BBB52D99}|CadastroCliente\\CadastroCliente.csproj|C:\\Users\\allan.ssilva4\\source\\repos\\CadastroCliente\\cadastrocliente\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CDF28CE5-74B1-49C6-8236-9261BBB52D99}|CadastroCliente\\CadastroCliente.csproj|solutionrelative:cadastrocliente\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -50,63 +54,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
+              "Title": "DAO.cs",
+              "DocumentMoniker": "C:\\Users\\allan.ssilva4\\source\\repos\\CadastroCliente\\CadastroCliente\\DAO.cs",
+              "RelativeDocumentMoniker": "CadastroCliente\\DAO.cs",
+              "ToolTip": "C:\\Users\\allan.ssilva4\\source\\repos\\CadastroCliente\\CadastroCliente\\DAO.cs",
+              "RelativeToolTip": "CadastroCliente\\DAO.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAmwGQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T11:20:54.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Excluir.cs",
               "DocumentMoniker": "C:\\Users\\allan.ssilva4\\source\\repos\\CadastroCliente\\CadastroCliente\\Excluir.cs",
               "RelativeDocumentMoniker": "CadastroCliente\\Excluir.cs",
               "ToolTip": "C:\\Users\\allan.ssilva4\\source\\repos\\CadastroCliente\\CadastroCliente\\Excluir.cs",
               "RelativeToolTip": "CadastroCliente\\Excluir.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAMwBUAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-28T14:34:42.545Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Atualizar.cs",
               "DocumentMoniker": "C:\\Users\\allan.ssilva4\\source\\repos\\CadastroCliente\\CadastroCliente\\Atualizar.cs",
               "RelativeDocumentMoniker": "CadastroCliente\\Atualizar.cs",
               "ToolTip": "C:\\Users\\allan.ssilva4\\source\\repos\\CadastroCliente\\CadastroCliente\\Atualizar.cs",
               "RelativeToolTip": "CadastroCliente\\Atualizar.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAMwBUAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-28T14:34:24.403Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "Consultar.cs",
               "DocumentMoniker": "C:\\Users\\allan.ssilva4\\source\\repos\\CadastroCliente\\CadastroCliente\\Consultar.cs",
               "RelativeDocumentMoniker": "CadastroCliente\\Consultar.cs",
               "ToolTip": "C:\\Users\\allan.ssilva4\\source\\repos\\CadastroCliente\\CadastroCliente\\Consultar.cs",
               "RelativeToolTip": "CadastroCliente\\Consultar.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAMwBUAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAAIwBkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-28T14:33:49.906Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Cadastrar.cs",
               "DocumentMoniker": "C:\\Users\\allan.ssilva4\\source\\repos\\CadastroCliente\\CadastroCliente\\Cadastrar.cs",
               "RelativeDocumentMoniker": "CadastroCliente\\Cadastrar.cs",
               "ToolTip": "C:\\Users\\allan.ssilva4\\source\\repos\\CadastroCliente\\CadastroCliente\\Cadastrar.cs",
               "RelativeToolTip": "CadastroCliente\\Cadastrar.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAhwBYAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAACYAAAAAAAAAAAAnwDMAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-28T14:32:55.557Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Excluir.cs [Design]",
               "DocumentMoniker": "C:\\Users\\allan.ssilva4\\source\\repos\\CadastroCliente\\CadastroCliente\\Excluir.cs",
               "RelativeDocumentMoniker": "CadastroCliente\\Excluir.cs",
@@ -118,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "Atualizar.cs [Design]",
               "DocumentMoniker": "C:\\Users\\allan.ssilva4\\source\\repos\\CadastroCliente\\CadastroCliente\\Atualizar.cs",
               "RelativeDocumentMoniker": "CadastroCliente\\Atualizar.cs",
@@ -130,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "Consultar.cs [Design]",
               "DocumentMoniker": "C:\\Users\\allan.ssilva4\\source\\repos\\CadastroCliente\\CadastroCliente\\Consultar.cs",
               "RelativeDocumentMoniker": "CadastroCliente\\Consultar.cs",
@@ -142,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "Cadastrar.cs [Design]",
               "DocumentMoniker": "C:\\Users\\allan.ssilva4\\source\\repos\\CadastroCliente\\CadastroCliente\\Cadastrar.cs",
               "RelativeDocumentMoniker": "CadastroCliente\\Cadastrar.cs",
@@ -154,20 +171,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\allan.ssilva4\\source\\repos\\CadastroCliente\\CadastroCliente\\Form1.cs",
               "RelativeDocumentMoniker": "CadastroCliente\\Form1.cs",
               "ToolTip": "C:\\Users\\allan.ssilva4\\source\\repos\\CadastroCliente\\CadastroCliente\\Form1.cs",
               "RelativeToolTip": "CadastroCliente\\Form1.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAwwCEAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-28T12:09:45.97Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\allan.ssilva4\\source\\repos\\CadastroCliente\\CadastroCliente\\Form1.cs",
               "RelativeDocumentMoniker": "CadastroCliente\\Form1.cs",

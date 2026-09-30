@@ -44,6 +44,7 @@
             this.button1.TabIndex = 28;
             this.button1.Text = "Excluir";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // codigoTexto
             // 
@@ -52,6 +53,7 @@
             this.codigoTexto.Name = "codigoTexto";
             this.codigoTexto.Size = new System.Drawing.Size(187, 30);
             this.codigoTexto.TabIndex = 27;
+            this.codigoTexto.TextChanged += new System.EventHandler(this.codigoTexto_TextChanged);
             // 
             // label2
             // 
@@ -59,9 +61,9 @@
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F);
             this.label2.Location = new System.Drawing.Point(75, 103);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(81, 25);
+            this.label2.Size = new System.Drawing.Size(58, 25);
             this.label2.TabIndex = 26;
-            this.label2.Text = "Código:";
+            this.label2.Text = "CPF:";
             // 
             // label1
             // 

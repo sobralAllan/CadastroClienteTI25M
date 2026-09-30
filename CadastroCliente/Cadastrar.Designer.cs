@@ -29,11 +29,9 @@
         private void InitializeComponent()
         {
             this.label1 = new System.Windows.Forms.Label();
-            this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
-            this.codigoTexto = new System.Windows.Forms.TextBox();
             this.nomeTexto = new System.Windows.Forms.TextBox();
             this.enderecoTexto = new System.Windows.Forms.TextBox();
             this.button1 = new System.Windows.Forms.Button();
@@ -53,21 +51,11 @@
             this.label1.TabIndex = 0;
             this.label1.Text = "Cadastrar Cliente";
             // 
-            // label2
-            // 
-            this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F);
-            this.label2.Location = new System.Drawing.Point(79, 103);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(81, 25);
-            this.label2.TabIndex = 1;
-            this.label2.Text = "Código:";
-            // 
             // label3
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F);
-            this.label3.Location = new System.Drawing.Point(79, 182);
+            this.label3.Location = new System.Drawing.Point(80, 162);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(70, 25);
             this.label3.TabIndex = 2;
@@ -77,7 +65,7 @@
             // 
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F);
-            this.label4.Location = new System.Drawing.Point(79, 226);
+            this.label4.Location = new System.Drawing.Point(80, 206);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(95, 25);
             this.label4.TabIndex = 3;
@@ -87,35 +75,29 @@
             // 
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F);
-            this.label5.Location = new System.Drawing.Point(79, 268);
+            this.label5.Location = new System.Drawing.Point(80, 248);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(102, 25);
             this.label5.TabIndex = 4;
             this.label5.Text = "Endereço:";
             // 
-            // codigoTexto
-            // 
-            this.codigoTexto.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F);
-            this.codigoTexto.Location = new System.Drawing.Point(194, 98);
-            this.codigoTexto.Name = "codigoTexto";
-            this.codigoTexto.Size = new System.Drawing.Size(331, 30);
-            this.codigoTexto.TabIndex = 5;
-            // 
             // nomeTexto
             // 
             this.nomeTexto.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F);
-            this.nomeTexto.Location = new System.Drawing.Point(193, 179);
+            this.nomeTexto.Location = new System.Drawing.Point(194, 159);
             this.nomeTexto.Name = "nomeTexto";
             this.nomeTexto.Size = new System.Drawing.Size(331, 30);
             this.nomeTexto.TabIndex = 6;
+            this.nomeTexto.TextChanged += new System.EventHandler(this.nomeTexto_TextChanged);
             // 
             // enderecoTexto
             // 
             this.enderecoTexto.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F);
-            this.enderecoTexto.Location = new System.Drawing.Point(194, 265);
+            this.enderecoTexto.Location = new System.Drawing.Point(195, 245);
             this.enderecoTexto.Name = "enderecoTexto";
             this.enderecoTexto.Size = new System.Drawing.Size(330, 30);
             this.enderecoTexto.TabIndex = 8;
+            this.enderecoTexto.TextChanged += new System.EventHandler(this.enderecoTexto_TextChanged);
             // 
             // button1
             // 
@@ -127,6 +109,7 @@
             this.button1.TabIndex = 9;
             this.button1.Text = "Cadastrar";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // button2
             // 
@@ -143,7 +126,7 @@
             // 
             this.label6.AutoSize = true;
             this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F);
-            this.label6.Location = new System.Drawing.Point(79, 142);
+            this.label6.Location = new System.Drawing.Point(80, 122);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(58, 25);
             this.label6.TabIndex = 11;
@@ -152,20 +135,22 @@
             // maskedTextBox1
             // 
             this.maskedTextBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F);
-            this.maskedTextBox1.Location = new System.Drawing.Point(193, 137);
+            this.maskedTextBox1.Location = new System.Drawing.Point(194, 117);
             this.maskedTextBox1.Mask = "999.999.999-99";
             this.maskedTextBox1.Name = "maskedTextBox1";
             this.maskedTextBox1.Size = new System.Drawing.Size(329, 30);
             this.maskedTextBox1.TabIndex = 12;
+            this.maskedTextBox1.MaskInputRejected += new System.Windows.Forms.MaskInputRejectedEventHandler(this.maskedTextBox1_MaskInputRejected);
             // 
             // maskedTextBox2
             // 
             this.maskedTextBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F);
-            this.maskedTextBox2.Location = new System.Drawing.Point(196, 220);
+            this.maskedTextBox2.Location = new System.Drawing.Point(197, 200);
             this.maskedTextBox2.Mask = "(999) 99999-9999";
             this.maskedTextBox2.Name = "maskedTextBox2";
             this.maskedTextBox2.Size = new System.Drawing.Size(329, 30);
             this.maskedTextBox2.TabIndex = 13;
+            this.maskedTextBox2.MaskInputRejected += new System.Windows.Forms.MaskInputRejectedEventHandler(this.maskedTextBox2_MaskInputRejected);
             // 
             // Cadastrar
             // 
@@ -179,11 +164,9 @@
             this.Controls.Add(this.button1);
             this.Controls.Add(this.enderecoTexto);
             this.Controls.Add(this.nomeTexto);
-            this.Controls.Add(this.codigoTexto);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
-            this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Name = "Cadastrar";
             this.Text = "Cadastrar";
@@ -195,11 +178,9 @@
         #endregion
 
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label5;
-        private System.Windows.Forms.TextBox codigoTexto;
         private System.Windows.Forms.TextBox nomeTexto;
         private System.Windows.Forms.TextBox enderecoTexto;
         private System.Windows.Forms.Button button1;
